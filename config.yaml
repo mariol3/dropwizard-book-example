@@ -1,0 +1,7 @@
+message: Messaggio fico
+messageRepetitions: 3
+database:
+  driverClass: com.mysql.jdbc.Driver
+  user: phonebookuser
+  password: phonebookpassword
+  url: jdbc:mysql://localhost/phonebook
